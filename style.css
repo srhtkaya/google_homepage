@@ -1,0 +1,19 @@
+header {
+  height: 20px;
+}
+
+img {
+  height: 100px;
+  display: block;
+}
+
+input {
+  width: 500px;
+  height: 40px;
+  margin-bottom: 30px;
+  display: block;
+
+  -moz-box-shadow:    3px 3px 3px 3px #ccc;
+  -webkit-box-shadow: 3px 3px 3px 3px #ccc;
+  box-shadow:         3px 3px 3px 3px #ccc;
+}
